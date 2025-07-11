@@ -1,5 +1,7 @@
 import React from "react";
 import Button from "./Button";
+import Header from "./Header";
+import Footer from "./Footer";
 
 const Main = () => {
   return (
@@ -21,12 +23,13 @@ const Main = () => {
             maxime fugiat aut distinctio enim, architecto harum et dignissimos
             eum.
           </p>
-          <Button Text='Login' class='btn btn-outline-warning' />
-
+          <Button Text="Login" class="btn btn-outline-warning" />
         </div>
       </div>
-      <span className='d-flex justify-content-end mt-3 mb-3'>
-        <a href='#' className='text-muted'>Back to top</a>
+      <span className="d-flex justify-content-end mt-3 mb-3">
+        <a href="#" className="text-muted">
+          Back to top
+        </a>
       </span>
     </>
   );
