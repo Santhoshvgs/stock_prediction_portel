@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className='footer py-3 my-3 '>
       <hr className='border-bottom' />
       <div className='container text-light text-center'>
-        <span className='text-muted'>© 2023 Stock Prediction Portal</span>
+        <span className='text-muted'>© 2025 Stock Prediction Portal</span>
        
       </div>
 

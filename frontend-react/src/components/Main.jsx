@@ -23,7 +23,7 @@ const Main = () => {
             maxime fugiat aut distinctio enim, architecto harum et dignissimos
             eum.
           </p>
-          <Button Text="Login" class="btn btn-outline-warning" />
+          <Button Text="Login" className="btn btn-outline-warning" />
         </div>
       </div>
       <span className="d-flex justify-content-end mt-3 mb-3">
